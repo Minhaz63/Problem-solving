@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1572978812 source:c:\users\sminh\onedrive\desktop\prohramming\lab4\main.cpp
+	<iostream>
+	<string>
+	"StudentInfo.h"
+	<conio.h>
+
+1572978901 c:\users\sminh\onedrive\desktop\prohramming\lab4\include\studentinfo.h
+
+1572978112 source:c:\users\sminh\onedrive\desktop\prohramming\lab4\src\studentinfo.cpp
+	<iostream>
+	"StudentInfo.h"
+	<conio.h>
+
